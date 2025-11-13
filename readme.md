@@ -1,4 +1,4 @@
-flask login with oauth
+---flask login with oauth
 
 간단한 Flask 기반 OAuth 2.0 & OpenID Connect 로그인 흐름을 실습하기 위한 최소 예제 프로젝트입니다.
 
