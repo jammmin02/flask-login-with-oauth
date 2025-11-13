@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 - `APIs & Services` -> `Credentials`로 이동합니다.
 - `Create Credentials` -> `OAuth client ID` 선택
-- Application type은 `Web application` 선택, `Name`은 구분하기 쉬운 이름으로 입력
+- Application type은 `Web application` 선택, `Name`은 구분하기 쉬운 이름으로 입력해주세
 
 5. 승인된 리디렉션 URI 추가
 
